@@ -1,0 +1,3 @@
+serial_number,part_number,overall_length,diameter,cal_alpha,cal_od,status,inspection_date,quality_issue
+SN1003,481-B,151.2,24.8,,1.08,Potential,2026-05-03,Missing CAL_ALPHA; 
+SN1004,481-C,147.5,24.5,0.65,,Rejected,2026-05-04,Missing CAL_OD; 
